@@ -6,5 +6,7 @@ As AI becomes more advanced, humans are challenged to comprehend and retrace how
 There are many advantages to understanding how an AI-enabled system has led to a specific output.  Explainability can help developers ensure that the system is working as expected, it might be necessary to meet regulatory standards, or it might be important in allowing those affected by a decision to challenge or change that outcome.
 
 # Grad-CAM Example
-![image](https://user-images.githubusercontent.com/77681678/228993121-390e57b7-a576-4fd3-a270-c204c3c357eb.png)
-![image](https://user-images.githubusercontent.com/77681678/228993148-8d42327d-fc6f-4069-940f-a68420671298.png)
+![image](https://user-images.githubusercontent.com/77681678/228993531-c5438e88-e192-44a6-abe2-119daf36300c.png)
+![image](https://user-images.githubusercontent.com/77681678/228993545-70e3d976-00ab-4c02-b77a-bb18d041a75a.png)
+![image](https://user-images.githubusercontent.com/77681678/228993563-be93cadb-1fab-4e4d-81e8-d0b26470481c.png)
+
